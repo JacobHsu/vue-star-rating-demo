@@ -2,6 +2,11 @@
 
 `yarn add vue-star-rating`
 
+cli
+
+import StarRating from 'vue-star-rating'
+
+
 ## Project setup
 ```
 yarn install
