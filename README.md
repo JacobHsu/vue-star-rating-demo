@@ -1,5 +1,7 @@
 # vue-star-rating-demo
 
+`yarn add vue-star-rating`
+
 ## Project setup
 ```
 yarn install
