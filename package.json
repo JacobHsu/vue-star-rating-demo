@@ -10,7 +10,7 @@
     "deploy": "yarn build && gh-pages -d dist"
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "core-js": "^2.6.5",
     "vue": "^2.6.10",
     "vue-star-rating": "^1.6.1"
